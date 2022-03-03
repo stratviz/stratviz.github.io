@@ -1,0 +1,15 @@
+body {
+	border: 2px solid red;
+}
+
+.score{
+	font-size: 12px;
+}
+
+.group .member{
+	stroke: black;
+}
+
+.group .title{
+	stroke: none;
+}
